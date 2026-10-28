@@ -1,0 +1,19 @@
+{
+  "name": "fake-news-and-deepfake--aiml",
+  "version": "1.0.0",
+  "description": "A complete, lightweight, and functional full-featured application designed for multi-modal verification of news text and visual media. Built for AI/ML security research, academic demonstrations, and journalistic media forensics.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@vitejs/plugin-react": "^6.1.2",
+    "lucide-react": "^1.63.0",
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1",
+    "vite": "^8.3.5"
+  }
+}

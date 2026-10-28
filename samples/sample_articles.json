@@ -1,0 +1,28 @@
+{
+  "test_cases": [
+    {
+      "id": "credible_01",
+      "category": "Credible / Authentic",
+      "headline": "WHO Releases Global Health Trends Report Highlighting Vaccine Efficacy",
+      "body": "Official health authorities and university researchers reported a steady decline in seasonal viral infections following nationwide preventative vaccination programs. The findings were documented in a peer-reviewed clinical journal after multi-center international trials."
+    },
+    {
+      "id": "credible_02",
+      "category": "Credible / Authentic",
+      "headline": "Central Monetary Authority Holds Policy Rates Stable Amid Moderating Inflation",
+      "body": "The central bank announced an adjustment in benchmark interest rates to combat inflation, according to official economic statistics released by the federal monetary board during their quarterly briefing. Independent market analysts noted steady consumer demand."
+    },
+    {
+      "id": "fake_01",
+      "category": "Misinformation / Fake News",
+      "headline": "SHOCKING SECRET: Miracle Kitchen Fruit Cures Terminal Cancer in 24 Hours!",
+      "body": "Big Pharma wants this deleted immediately! Exposed proof will blow your mind before it gets banned everywhere! Renowned secret healer discovers natural remedy that completely eliminates all illness overnight."
+    },
+    {
+      "id": "fake_02",
+      "category": "Misinformation / Fake News",
+      "headline": "URGENT: Government Leaks Secret Mind-Control Microchips In Tap Water",
+      "body": "Whistleblower drops bombshell proof that 5G cellular towers are covertly weaponized transmitters triggering chips secretly added to drinking water! Share this viral truth now before social media censors it!"
+    }
+  ]
+}
